@@ -1,0 +1,39 @@
+1) Calcular el promedio semanal de gastos en un mes, ingresando como datos:
+    Semana número
+    Gasto semanal
+
+El proceso termina cuando “semana número” es igual a 5.
+
+2) Ingresar números hasta que el último sea cero. Calcular la cantidad de positivos.
+
+3) Al terminar un día en un colegio secundario se hace una estadística de faltas sabiendo
+de cada curso:
+    Curso (1-5)
+    Presentes
+    Ausentes
+Calcular
+    Por cada curso el porcentaje de presentes sobre el total
+    Cantidad de ausentes en el colegio
+    Curso con mayor cantidad de ausente
+
+4) Leer el número de mes y mostrar cuantos días tiene ese mes (año actual)
+
+5) Ingresar 10 números mayores a 3 y menores a 8. Mostrar el valor ingresado en
+número y letras.
+
+6) Leer dos números, mostrar el siguiente Menú pudiendo seleccionar alguna opción y
+repetir esta operación hasta que seleccione 5.
+ Menú principal
+1. Sumar
+2. Restar
+3. Multiplicar
+4. Dividir
+5. Salir
+ Seleccione una opción:
+
+7) Ingresar las temperaturas registradas a distintas horas de un día en grados hasta que
+ésta sea 100. Mostrar la temperatura máxima y la temperatura mínima.
+
+8. Leer un número y calcular la suma de los números naturales hasta ese número.
+Modificar el algoritmo para que se pueda procesar muchos números. Dar por terminada la
+entrada cuando el número sea 0.
